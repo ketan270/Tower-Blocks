@@ -51,6 +51,6 @@ Distributed under the no License. See LICENSE.txt for more information.
 
 ## :handshake: Contact
 
-KETAN SHARMA - - Ketansharma2005@gmail.com
+- How to reach me : ketansharma2005@gmail.com
 
-Project Link: [https://github.com/ketan270/Tower-Blocks](https://github.com/ketan270/Tower-Blocks)
+- `Project Link:` [https://github.com/ketan270/Tower-Blocks](https://github.com/ketan270/Tower-Blocks)
