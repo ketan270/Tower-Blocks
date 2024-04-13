@@ -41,9 +41,6 @@ Contributions are always welcome!
 
 see `contributing.md` for ways to get started
 
-### :scroll: Code of Conduct
-
-Please read the [Code of Conduct](https://github.com/ketan270/Tower-Blocks/blob/master/CODE_OF_CONDUCT.md)
 
 ## :warning: License
 
