@@ -1,6 +1,7 @@
 <div align='center'>
 
-<h1>Tower-Blocks</h1>
+![logo-no-background](https://github.com/ketan270/Tower-Blocks/assets/146920220/fe46765c-f7b4-4343-a42b-2e08206f261d)
+<br>
 <p>Tower Blocks is a simple yet addictive game where players stack blocks to create the tallest tower possible. With intuitive controls and a minimalist design, Tower Blocks offers a relaxing yet challenging gaming experience for players of all ages.</p>
 
 <h4> <a href=https://tower-blocks-one.vercel.app/>View Demo</a> <span> · </span> <a href="https://github.com/ketan270/Tower-Blocks/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/ketan270/Tower-Blocks/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/ketan270/Tower-Blocks/issues"> Request Feature </a> </h4>
